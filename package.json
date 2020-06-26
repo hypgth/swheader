@@ -21,7 +21,7 @@
 		"color": "#386bc4",
 		"theme": "dark"
 	},
-	"icon": "https://swexpertacademy.com/main/favicon.ico",
+	"icon": "images/icon.png",
 	"main": "./extension.js",
 	"contributes": {
 		"snippets": [
