@@ -1,0 +1,16 @@
+{
+	"swheader": {
+		"prefix": "swea",
+		"body": [
+			"$BLOCK_COMMENT_START",
+			"${TM_FILENAME/(.*)\\..+$/$1/}: ${1:문제명을 입력해주세요 :)}",
+			"$BLOCK_COMMENT_END",
+			"",
+			"import sys",
+			"sys.stdin = open('${2:${TM_FILENAME/(.*)\\..+$/$1/}_input}.txt')",
+			"",
+			"${0}"
+		],
+		"description": "A header generator for SWEA problem solving"
+	}
+}
