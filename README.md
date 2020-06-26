@@ -12,7 +12,7 @@ SWEA 문제풀이인을 위한 SWEA header Generator
 
 ## 사용법
 
-1. 파이썬(Python)) 파일 생성 
+1. 파이썬(Python) 파일 생성 
 
 2. `swea` 입력 후, **tab**
 
