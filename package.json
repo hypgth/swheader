@@ -21,7 +21,7 @@
 		"color": "#386bc4",
 		"theme": "dark"
 	},
-	"icon": "images/icon.png",
+	"icon": "https://swexpertacademy.com/main/favicon.ico",
 	"main": "./extension.js",
 	"contributes": {
 		"snippets": [
@@ -46,6 +46,10 @@
 		"mocha": "^7.1.2",
 		"typescript": "^3.8.3",
 		"vscode-test": "^1.3.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hp-hk/swheader.git"
 	},
 	"bugs": {
 		"url": "https://github.com/hp-hk/swheader/issues",

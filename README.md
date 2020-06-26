@@ -7,7 +7,7 @@ SWEA 문제풀이인을 위한 SWEA header Generator
 
 더 이상의 `import sys`는 없다.
 
-![command](images/command.gif)
+![command](https://media.giphy.com/media/lqFYOssHNkCfgUvtG5/giphy.gif)
 
 
 ## 사용법
@@ -24,7 +24,7 @@ SWEA 문제풀이인을 위한 SWEA header Generator
 
 
 ## 데모(Demo)
-![workflow](images/workflow.gif)
+![workflow](https://media.giphy.com/media/j1yHvvsddPLLY6d3nS/giphy.gif))
 
 
 ## Release Notes
