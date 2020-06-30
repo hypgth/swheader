@@ -2,7 +2,7 @@
 	"name": "swheader",
 	"displayName": "swheader",
 	"description": "SWEA Header :: swheader ",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"publisher": "djohnkang",
 	"author": {
 		"name": "djohnkang"
@@ -22,7 +22,6 @@
 		"theme": "dark"
 	},
 	"icon": "images/icon.png",
-	"main": "./extension.js",
 	"contributes": {
 		"snippets": [
 			{
