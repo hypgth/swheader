@@ -1,6 +1,6 @@
 # SWEA Header :: swheader
 
-SWEA 문제풀이인을 위한 SWEA header Generator
+SWEA 문제풀이인을 위한 SWEA Header Generator
 
 
 ## 기능
