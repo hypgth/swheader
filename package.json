@@ -2,13 +2,13 @@
 	"name": "swheader",
 	"displayName": "swheader",
 	"description": "SWEA Header :: swheader ",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"publisher": "djohnkang",
 	"author": {
 		"name": "djohnkang"
 	},
 	"keywords": [
-		"SSSFY",
+		"SSAFY",
 		"SWEA"
 	],
 	"engines": {
@@ -27,7 +27,7 @@
 		"snippets": [
 			{
 				"language": "python",
-				"path": "./snippets.json"
+				"path": "./snippets.code-snippets"
 			}
 		]
 	},
