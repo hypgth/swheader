@@ -7,7 +7,9 @@
 			"$BLOCK_COMMENT_END",
 			"",
 			"import sys",
-			"sys.stdin = open('${2:${TM_FILENAME/(.*)\\..+$/$1/}_input}.txt')",
+			"${newline}",
+			"${newline}",
+			"sys.stdin = open('input_${2:${TM_FILENAME/(.*)\\..+$/$1/}}.txt')",
 			"",
 			"${0}"
 		],
